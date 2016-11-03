@@ -1,0 +1,50 @@
+id,label,ctype,Dimensión,Fuente,Tipo de Fuente
+Localidad,Nombre de la Localidad,Ca,Variables de Identificación,Variables de Identificación,Variables de Identificación
+Anio,Año al que corresponde el indicador,Nu,Variables de Identificación,Variables de Identificación,Variables de Identificación
+ncmb_1,Prevalencia de bajo peso al nacer,Nu,Necesidades Humanas Básicas,Secretaría de Salud,Entidad del distrito
+ncmb_2,Prevalencia de desnutrición crónica en menores de cinco años,Nu,Necesidades Humanas Básicas,Secretaría de Salud,Entidad del distrito
+ncmb_3,Razón de mortalidad materna x 100.000 NV,Nu,Necesidades Humanas Básicas,Secretaría de Salud,Entidad del distrito
+ncmb_4,Tasa de mortalidad Por enfermedades infecciosas y parasitarias (x 100.000 hab),Nu,Necesidades Humanas Básicas,Secretaría de Salud,Entidad del distrito
+ncmb_5,Tasa de Incidencia del VIH * 100,Nu,Entidad del distrito,000 hab,Secretaría de Salud
+ncmb_6,Tasa de mortalidad en menores de 1 año por 1.000 NV,Nu,Necesidades Humanas Básicas,Secretaría de Salud,Entidad del distrito
+ws_1,Tasa de cobertura acueducto,Nu,Necesidades Humanas Básicas,Empresa de Acueducto y Alcantarillado de Bogotá,Entidad del distrito
+ws_2,Tasa de cobertura alcantarillado,Nu,Necesidades Humanas Básicas,Empresa de Acueducto y Alcantarillado de Bogotá,Entidad del distrito
+ws_3,Tasa de cobertura alcantarillado pluvial,Nu,Necesidades Humanas Básicas,Empresa de Acueducto y Alcantarillado de Bogotá,Entidad del distrito
+vsp_1,Déficit cualitativo de vivienda (% hogares),Nu,Necesidades Humanas Básicas,Encuesta Multipropósito de Bogotá,Encuesta Multipropósito de Bogotá
+vsp_2,Déficit cuantitativo de Vivienda (% hogares),Nu,Necesidades Humanas Básicas,Encuesta Multipropósito de Bogotá,Encuesta Multipropósito de Bogotá
+vsp_3,Porcentaje de personas que se siente bien en su casa,Nu,Necesidades Humanas Básicas,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+vsp_4,Porcentaje de personas que se siente bien en su barrio,Nu,Necesidades Humanas Básicas,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+sp_1,Tasa de lesiones Personales,Nu,Necesidades Humanas Básicas,Medicina Legal,Entidad Nacional
+sp_2,Tasa de homicidios por 100.000 habitantes,Nu,Necesidades Humanas Básicas,Medicina Legal,Entidad Nacional
+sp_3,Tasa de mortalidad en accidentes de tránsito por cada 100.000 habitantes,Nu,Necesidades Humanas Básicas,Secretaría de Movilidad,Entidad del distrito
+abc_1,Tasa de analfabetismo en  mayores de 15 años,Nu,Fundamentos del bienestar,Encuesta Multipropósito de Bogotá,Encuesta Multipropósito de Bogotá
+abc_2,Tasa bruta de cobertura básica primaria,Nu,Fundamentos del bienestar,Secretaría de educación,Entidad del distrito
+abc_3,Tasa bruta de cobertura en media,Nu,Fundamentos del bienestar,Secretaría de educación,Entidad del distrito
+abc_4,Puntaje promedio de los resultados de las pruebas SABER en lenguaje del grado 9 en los colegios distritales,Nu,Fundamentos del bienestar,Secretaría de educación,Entidad del distrito
+aic_1,Porcentaje de personas que actualmente tiene acceso a Internet,Nu,Fundamentos del bienestar,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+aic_2,Porcentaje de personas que actualmente tiene acceso a Celular,Nu,Fundamentos del bienestar,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+aic_3,Porcentaje de Personas mayores de 10 años que Utilizan computador,Nu,Fundamentos del bienestar,Encuesta Multipropósito de Bogotá,Encuesta Multipropósito de Bogotá
+hw_1,Esperanza de vida al nacer,Nu,Fundamentos del bienestar,Secretaría de planeación,Entidad del distrito
+hw_2,Tasa de suicidios por cada 100.000 habitantes,Nu,Fundamentos del bienestar,Medicina Legal,Entidad Nacional
+hw_3,Mortalidad por enfermedades crónicas (menores de 70),Nu,Fundamentos del bienestar,Secretaría de Salud,Entidad del distrito
+hw_4,Porcentaje de personas de 15 años y más que practican algun deporte 3 o más días a la semana,Nu,Fundamentos del bienestar,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+es_1,Número de Árboles por cada 100.000 Habitantes,Nu,Fundamentos del bienestar,Jardín botánico de bogotá,Entidad del distrito
+es_2,Espacio público efectivo por habitante,Nu,Fundamentos del bienestar,Departamento Administrativo de la Defensoría del Espacio Público DADEP,Entidad del distrito
+es_3,Material recuperado en el Centro de Acopio Alquería. (Ton/año) Tasa por cada 100.000 habitantes,Nu,Fundamentos del bienestar,UAESP,Entidad del distrito
+es_4,Indicador de alternativas de transporte,Nu,Fundamentos del bienestar,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+pr_1,Porcentaje de personas que se sienten muy satisfechos con la facilidad de transporte en el sector donde vive,Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+pr_2,Porcentaje de personas dueñas del lugar donde habita,Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+pr_3,Porcentaje de personas miembros de un grupo de acción social (partidos politicos,Nu,Encuesta Bienal de Culturas,organización ecologista,juntas de acción comunal)
+pr_4,Participación en elecciones a alcaldía mayor,Nu,Oportunidades,Registraduría Nacional,Entidad Nacional
+pfc_1,Fecundidad especifica para adolescentes de 10 a 14 años,Nu,Oportunidades,Secretaría de Salud,Entidad del distrito
+pfc_2,Porcentaje de personas que se sienten bien en su localidad,Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+pfc_3,Número de parques zonales,Nu,Entidad del distrito,vecinales y de bolsillo por cada 100.000 habitantes,IDRD
+ti_1,Porcentaje de personas que se sienten satisfechos o muy satisfechos con sus relaciones vecinales,Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+ti_2,Porcentaje de personas que se han sentido discriminado en Bogotá,Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+ti_3,Porcentaje de personas que se sienten bogotano(a),Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+ti_4,Porcentaje de personas que consideran que en su vecindario hay Familias conflictivas que se pelean mucho entre ellos,Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+ti_5,Porcentaje de personas de acuerdo con que se prohiban las expresiones que moelestan a la mayoría,Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+aes_1,Puntaje promedio de colegios distritales en Matemáticas,Nu,Oportunidades,Ministerio de Educación Nacional,Entidad Nacional
+aes_2,Puntaje promedio de colegios distritales en Lenguaje,Nu,Oportunidades,Ministerio de Educación Nacional,Entidad Nacional
+aes_3,Porcentaje de población con educación superior INCOMPLETA (T&T+Universitario),Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas
+aes_4,Porcentaje de población con educación superior COMPLETA (T&T+Universitario),Nu,Oportunidades,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas

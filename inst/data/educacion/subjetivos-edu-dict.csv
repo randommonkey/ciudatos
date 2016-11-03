@@ -1,0 +1,32 @@
+names,description
+NUMERO,NUMERO
+NSE,NSE
+CIUDAD,CIUDAD
+LOCALIDAD_COMUNA,LOCALIDAD_COMUNA
+SEXO,SEXO. SEXO
+EDAD,EDAD. EDAD
+PON,PON.PON
+AÑO,AÑO. AÑO
+F1,F1. Tipo de entrevistad(a)
+F2,F2. Actualmente estamos realizando un estudio para lo cual me gustaría hacerle algunas preguntas. ¿Podría responderme esta encuesta?
+F3_1,"F3. Para comenzar me gustaría saber si Usted, o algún miembro de su familia que viva en su hogar, trabaja actualmente o ha trabajado en los últimos seis meses en…"
+F4,¿En qué empresa trabaja Usted?
+F5,¿Y cuál es su ocupación?
+F6,"F6. ¿Usted vive de forma permanente en [CIUDAD], o se encuentra en la ciudad por turismo o negocios?"
+F6A_AÑOS,F6A_AÑOS. ¿Hace cuánto tiempo vive en [CIUDAD]?
+F6A_MESES,F6A_MESES. ¿Hace cuánto tiempo vive en [CIUDAD]?
+F7,F7. ¿Podría por favor decirme cuántos hogares hay en esta vivienda? Grupo de personas que vive permanentemente en esta vivienda y comparten los alimentos; los empleados del servicio doméstico y sus familiares no forman parte del hogar.
+AG1,"AG1. Ahora quisiera saber si en su opinión, las cosas en [CIUDAD] en general, ¿van por buen camino o por mal camino?"
+AG2,"AG2. Usted personalmente, ¿qué tan orgulloso(a) se siente de [CIUDAD] ahora, en una escala de 1 a 5, donde 1 es nada orgulloso y 5 es muy orgulloso? Puede utilizar cualquier número de la escala."
+CV1,"CV1. ¿Qué tan satisfecho(a) se siente Usted con [CIUDAD] como una ciudad para vivir, usando estas opciones? Puede utilizar cualquier número de la escala."
+ED1,ED1. ¿En este hogar hay niños o jóvenes entre 5 y 17 años?
+ED3_1,"ED3_1. Pensando en los niños y jóvenes de este hogar entre 5 y 17 años, excluyendo a los que hayan terminado el grado once de bachillerato, actualmente ¿cuántos asisten a un establecimiento educativo privado?"
+ED3_2,"ED3_2. Pensando en los niños y jóvenes de este hogar entre 5 y 17 años, excluyendo a los que hayan terminado el grado once de bachillerato, actualmente ¿cuántos asisten a un establecimiento educativo público [DEL DISTRITO]?"
+ED3_3,"ED3_3. Pensando en los niños y jóvenes de este hogar entre 5 y 17 años, excluyendo a los que hayan terminado el grado once de bachillerato, actualmente ¿cuántos no asisten a algún establecimiento educativo?"
+ED4,"ED4. ¿Qué tan satisfecho(a) está usted en general con la educación que reciben los niños y jóvenes de este hogar que asisten a un establecimiento educativo, usando estas opciones? Puede utilizar cualquier número de la escala."
+ED24,ED24. ¿En este hogar hay niños menores de cinco años?
+ED25_1,"ED25_1. Pensando en los niños de este hogar menores de cinco años, ¿cuántos asisten a un hogar comunitario, guardería, preescolar o jardín público?"
+ED25_2,"ED25_2. Pensando en los niños de este hogar menores de cinco años, ¿cuántos asisten a una guardería, preescolar o jardín privado?"
+ED25_3,"ED25_3. Pensando en los niños de este hogar menores de cinco años, ¿cuántos permanecen en casa, o al cuidado de vecinos, amigos o familiares?"
+ED25_4,"ED25_4. Pensando en los niños de este hogar menores de cinco años, ¿cuántos permanecen en casa solos o al cuidado de un menor de edad?"
+ED5A,ED5A. ¿Qué tan satisfecho(a) está usted en general con la atención y cuidado recibido en las instituciones a las que asisten los niños menores de cinco años que viven en este hogar? Puede utilizar cualquier número de la escala.

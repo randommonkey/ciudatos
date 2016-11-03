@@ -1,0 +1,28 @@
+.navbar-default .navbar-nav > li > a:after{
+content:"";
+position:absolute;
+left:0;
+bottom:0;
+right:0;
+margin:auto;
+background:red;
+height:1px;
+}
+
+.viztypes > li > a:hover:after,
+.viztypes > li > a:focus:after,
+.viztypes > .active > a:after,
+.viztypes > .active > a:hover:after,
+.viztypes > .active > a:focus:after {
+content:'';
+position:absolute;
+left:0;
+bottom:8px;
+right:0;
+margin:auto;
+background:white;
+height:0px;
+}
+
+
+

@@ -1,0 +1,18 @@
+names,description
+Ciudad,Ciudad del dato
+Territorio,"Localidad, Comuna o Corregimiento"
+Anio,Año del dato
+v1_d_001,Población Total
+v1_d_002,Porcentaje de población en el área Urbana
+v4_e_001,Cobertura neta en educación inicial (prejardin y jardín)
+v4_e_002,Tasa de cobertura neta en preescolar
+v4_e_003,Tasa de cobertura neta en Primaria
+v4_e_004,Tasa de cobertura neta en Secundaria
+v4_e_005,Tasa de cobertura neta en Media
+v4_e_006,Tasa de asistencia escolar de 5 a 16 años
+v4_e_007,Tasa de deserción escolar - sector público
+v4_e_008,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas
+v4_e_009,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje
+v4_e_010,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas
+v4_e_011,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje
+v4_e_012,Porcentaje de estudiantes de 11° con dominio del inglés con nivel B1 o B+

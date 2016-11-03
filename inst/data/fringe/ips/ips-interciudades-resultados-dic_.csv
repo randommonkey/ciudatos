@@ -1,0 +1,19 @@
+id,label,ctype,Unidad de medida,Notas Variable
+Ciudad,Nombre de la ciudad,Ca,Variables de identificación,Variables de identificación
+anio,Año al que corresponde el puntaje,Ye,Variables de identificación,Variables de identificación
+NCB,Componente nutrición y cuidados médicos básicos,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+ASB,Componente Agua y Saneamiento,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+VSP,Componente Vivienda,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+SP,Componente Seguridad personal,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+NHB,Dimensión Necesidades Básicas Humanas,Nu,Puntaje en la ecala 0 a 100,"Es el promedio simple del puntaje obtenido en los cuatro componentes de la dimensión: Nutrición y Cuidados Médicos Básicos, Agua y Saneamiento, Vivienda, Seguridad Personal"
+ACB,Componente de Acceso a Conocimientos Básicos,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+AIC,Componente de Acceso a Información y Comunicaciones,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+SB,Componente de Salud y Bienestar,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+SA,Componente de Sostenibilidad  del ecosistema,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+FB,Dimensión de Fundamentos del Bienestar,Nu,Puntaje en la ecala 0 a 100,"Es el proimedio simple del puntaje obtenido en los cuatro componentes de la dimensión: Acceso a Conocimientos Básicos, Acceso a Información y Comunicaciones, Salud y Bienestar y Sostenibilidad del Ecosistema"
+DP,Componente de Derechos Personales,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+LPE,Componente de Libertad Personal y de Elección,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+TI,Componenente de Tolerancia e Inclusión,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+AES,Componente de Acceso a Educación Superior,Nu,Puntaje en la ecala 0 a 100,Puntaje obtenido en el componente.
+Op,Dimensión de Oportunidades,Nu,Puntaje en la ecala 0 a 100,"Es el promedio simple del puntaje obtenido en los cuatro componentes de la dimensión: Derechos Personales, Libertad Personal y de Elección, Tolerancia e Inclusión y Acceso a Educación Superior"
+IPS,Puntaje Índice de Progreso Social,Nu,Puntaje en la ecala 0 a 100,"Es el promedio simple del puntaje obtenido en las tres dimensiones: Necesidades Básicas Humanas, Fundamentos del Bienestar y Oportunidades"

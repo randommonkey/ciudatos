@@ -1,0 +1,255 @@
+id,name,ctype
+Ciudad,Ciudad del dato,Ca
+Localidad,Localidad,Ca
+Anio,Año del dato,Ye
+v1_d_001,Población Total,Nu
+v1_d_003,Población Hombres,Nu
+v1_d_004,Población Mujeres,Nu
+v1_d_005,Extensión territorial área km2 (area urbana),Nu
+v1_d_006,Extensión territorial área km2 (total),Nu
+v1_d_007,Extensión territorial área hectáreas,Nu
+v1_d_008,Densidad poblacional por Km2 (urbana),Nu
+v1_d_009,Densidad poblacional por Km2 (total),Nu
+v1_d_010,Tasa  de Crecimiento de la Población,Nu
+v1_d_011,Índice de Envejecimiento,Nu
+v1_d_012,Índice de Envejecimiento Hombres,Nu
+v1_d_013,Índice de Envejecimiento Mujeres,Nu
+v1_d_014,Tasa de Dependencia,Nu
+v1_d_015,Tasa de Dependencia hombres,Nu
+v1_d_016,Tasa de Dependencia mujeres,Nu
+v1_d_017,Porcentaje de Población Indígena,Nu
+v1_d_018,Porcentaje de Población Afrodescendientes,Nu
+v1_d_019,Esperanza de vida al nacer,Nu
+v1_d_020,Esperanza de vida al nacer Hombres,Nu
+v1_d_021,Esperanza de vida al nacer Mujeres,Nu
+v2_p_009,Coeficiente de Gini Bogotá Multipróposito,Nu
+v2_p_010,Índice de condiciones de vida ICV Multipropósito,Nu
+v2_p_012,Índice de Pobreza Multidimensional Multipropósito,Nu
+v2_p_013,Población bajo la línea de indigencia Bogotá Multipropósito,Ca
+v2_p_014,Población bajo la línea de pobreza Bogotá Multipropósito,Nu
+v3_s_013,Cobertura de vacunación con anti haemophilus influenzae tipo B en menores de un año,Nu
+v3_s_014,Cobertura de vacunación con antipolio en menores de un año,Nu
+v3_s_015,Cobertura de vacunación con BCG en niños menores de un año,Nu
+v3_s_009,Cobertura en vacunación con Triple Viral,Nu
+v3_s_008,Cobertura en vacunación  DTP tercera dosis,Nu
+v3_s_016,Cobertura de vacunación contra fiebre amarilla en niños de un año de edad,Nu
+v3_s_017,Cobertura de vacunación contra hepatitis B en menores de un año,Nu
+v3_s_012,Porcentaje de desnutrición crónica en menores de 5 años,Nu
+v3_s_018,Tasa de desnutrición global para menores de 5 años (prevalencia),Nu
+v3_s_019,Nacimientos en adolescentes de 10 a 14 años,Nu
+v3_s_020,Nacimientos en adolescentes de 15 a 19 años,Nu
+v3_s_021,Número de personas afiliadas al régimen subsidiado (Subsidio pleno),Nu
+v3_s_022,Cobertura de población afiliada al régimen subsidiado en total de la población,Nu
+v3_s_023,Porcentaje de personas vinculadas pero no afiliadas,Nu
+v3_s_024,Cobertura al régimen contributivo,Nu
+v3_s_025,Cobertura al régimen de excepción,Nu
+v3_s_026,Mediana de lactancia materna,Nu
+v3_s_005,Tasa de mortalidad materna,Nu
+v3_s_006,Porcentaje de nacidos vivos con bajo peso al nacer,Nu
+v3_s_011,Tasa de mortalidad en menores de 5 años,Nu
+v3_s_010,Tasa de mortalidad en menores de 1 año,Nu
+v3_s_027,Tasa de mortalidad perinatal por 1.000 nacidos vivos,Nu
+v3_s_028,Tasa de mortalidad por desnutrición en niños y niñas menores de cinco años (por 100.000 menores de cinco años),Nu
+v3_s_029,Tasa de mortalidad por enfermedad diarreica aguda EDA por 100.000 menores de cinco años,Nu
+v3_s_030,Tasa de mortalidad  por Infeccion Respiratoria Aguda IRA por 100.000 menores de cinco años,Nu
+v3_s_031,Tasa de mortalidad por neumonía por 100.000 menores de cinco años,Nu
+v3_s_032,"Incidencia del VIH * 100,000 hab",Nu
+v3_s_033,Mortalidad por cáncer de mama (número de casos),Nu
+v3_s_034,Mortalidad por cáncer de útero por cada 100.000 mujeres,Nu
+v3_s_035,Consumo de sustancias psicoactivas,Nu
+v4_e_012,Tasa global de cobertura bruta en educación,Nu
+v4_e_013,Tasa bruta de cobertura Preescolar (5 años),Nu
+v4_e_014,Tasa bruta de cobertura básica primaria,Nu
+v4_e_015,Tasa bruta de cobertura en básica secundaria,Nu
+v4_e_016,Tasa bruta de cobertura en media vocacional,Nu
+v4_e_019,Población en edad escolar de 5 a 16 años por localidades,Nu
+v4_e_020,Matricula oficial primera infancia grado pre-jardín,Nu
+v4_e_021,Matricula privada primera infancia grado pre-jardín,Nu
+v4_e_022,Matricula oficial primera infancia grado jardín,Nu
+v4_e_023,Matricula privada primera infancia grado jardín,Nu
+v4_e_024,Matricula oficial primera infancia grado transición,Nu
+v4_e_025,Matricula Privada primera infancia grado transición,Nu
+v4_e_027,Matricula oficial primera infancia total,Nu
+v4_e_028,Matricula Privada primera infancia total,Nu
+v4_e_007,"Tasa de deserción educación preescolar, básica primaria, básica secundaria y media vocacional pública",Nu
+v4_e_029,"Tasa de deserción educación preescolar, básica primaria, básica secundaria y media vocacional privada",Nu
+v4_e_030,Tasa de deserción educación preescolar pública,Nu
+v4_e_031,Tasa  de Deserción para el Sector Privado Preescolar,Nu
+v4_e_032,Tasa de deserción educación primaria pública,Nu
+v4_e_033,Tasa  de Deserción para el Sector Privado Primaria,Nu
+v4_e_034,Tasa de deserción educación secundaria pública,Nu
+v4_e_035,Tasa  de Deserción para el Sector Privado Secundaria,Nu
+v4_e_036,Tasa de deserción educación media pública,Nu
+v4_e_037,Tasa  de Deserción para el Sector Privado Media,Nu
+v4_e_038,"Tasa de repitencia en básica primaria, básica secundaria y media vocacional pública",Nu
+v4_e_039,"Tasa de repitencia en básica primaria, básica secundaria y media vocacional privada",Nu
+v4_e_041,Tasa de repitencia preescolar pública,Nu
+v4_e_042,Tasa de repitencia en preescolar para sector privado,Nu
+v4_e_043,Tasa de repitencia primaria pública,Nu
+v4_e_044,Tasa de repitencia en primaria para sector privado,Nu
+v4_e_046,Tasa de repitencia secundaria pública,Nu
+v4_e_047,Tasa de repitencia en secundaria para sector privado,Nu
+v4_e_049,Tasa de repitencia media pública,Nu
+v4_e_051,Tasa de repitencia en media para sector privado,Nu
+v4_e_054,Relación Alumno docente preescolar pública,Nu
+v4_e_055,Relación Alumno docente primaria pública,Nu
+v4_e_056,Relación Alumno docente básica secundaria y media pública,Nu
+v4_e_057,Relación Alumno docente total pública,Nu
+v4_e_060,"Porcentaje de los colegios oficiales clasificados en las categorías ""A+ ""y ""A"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_061,"Porcentaje de los colegios oficiales clasificados en ""B "" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_062,"Porcentaje de los colegios oficiales clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_063,"Porcentaje de los colegios NO oficiales clasificados en las categorías ""A+"" y ""A"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_064,"Porcentaje de los colegios NO oficiales clasificados en categoría ""B"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_065,"Porcentaje de los colegios NO oficiales clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_066,"Porcentaje de los colegios en Concesión clasificados en ""A+ "" y ""A"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_067,"Porcentaje de los colegios en Concesión clasificados en ""B"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_068,"Porcentaje de los colegios en concesión clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_069,"Porcentaje de los colegios en Convenio clasificados en ""A+ "" y ""A"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_070,"Porcentaje de los colegios en Convenio clasificados en ""B"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_071,"Porcentaje de los colegios en Convenio clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_072,"Porcentaje de los colegios en régimen especial clasificados en ""A+ "" y ""A"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_073,"Porcentaje de los colegios en régimen especial clasificados en ""B"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_074,"Porcentaje de los colegios en régimen especial clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11",Nu
+v4_e_075,"Porcentaje de los colegios oficiales clasificados en las categorías alto, superior y muy superior por rendimiento en las pruebas de Estado SABER 11",Nu
+v5_ml_006,Tasa global de participación Multipropósito,Nu
+v5_ml_007,Tasa de Ocupación Multipropósito,Nu
+v5_ml_008,Tasa de Desempleo Multipropósito,Nu
+v5_ml_012,Tasa de desempleo Jefes de hogar Multipropósito,Nu
+v5_ml_014,Tasa de Informalidad Multipropósito,Nu
+v5_ml_015,Tasa de cobertura en pensiones Multipropósito,Nu
+v6_sc_014,Número de  hurtos a bancos,Nu
+v6_sc_015,Tasa de hurto a bancos,Nu
+v6_sc_016,Número de hurto a establecimientos de comercio,Nu
+v6_sc_017,Tasa de hurto a establecimientos de comercio,Nu
+v6_sc_018,Número de hurtos a motos,Nu
+v6_sc_012,Tasa de hurto de motocicletas,Nu
+v6_sc_019,Número de hurtos a personas,Nu
+v6_sc_020,Tasa de hurto a personas,Nu
+v6_sc_021,Número de hurtos a residencias,Nu
+v6_sc_022,Tasa de hurto a residencias,Nu
+v6_sc_023,Número de hurtos a vehículos,Nu
+v6_sc_011,Tasa de hurto a automóviles,Nu
+v6_sc_025,Número de lesiones Inter personales MUJERES,Nu
+v6_sc_026,Número de lesiones Inter personales HOMBRES,Nu
+v6_sc_027,Número de lesiones personales,Nu
+v6_sc_005,Tasa de Homicidios por cada 100 mil habitantes,Nu
+v6_sc_029,Tasa de muertes violentas por 100.000 habitantes,Nu
+v6_sc_030,Tasa de suicidios por 100.000 habitantes,Nu
+v6_sc_031,Número de suicidios,Nu
+v6_sc_032,Victimización  directa,Nu
+v6_sc_033,Denuncia,Nu
+v6_sc_034,Percepción de inseguridad,Nu
+v7_v_012,Porcentaje de déficit de vivienda (Estimada),Nu
+v7_v_013,Porcentaje de déficit cuantitativo de vivienda,Nu
+v7_v_014,Porcentaje de déficit cualitativo de vivienda,Nu
+v7_v_015,Stock de vivienda,Nu
+v7_v_018,Tenencia de vivienda propia totalmente pagada (Multipropósito),Nu
+v7_v_020,Tenencia de vivienda propia en proceso de pago (Multipropósito),Nu
+v7_v_022,Tenencia de vivienda en arriendo o subarriendo (Multipropósito),Nu
+v7_v_024,Número de vivienda con Déficit cuantitativo,Nu
+v7_v_025,Número de hogares con Déficit cualitativo de vivienda,Nu
+v7_v_026,Hacinamiento crítico no mitigable (hogares),Nu
+v7_v_029,Unidades construidas  VIS - VIP en Sitio Propio Cajas de Compensación Familiar y EAB-ESP 2011-2014,Nu
+v7_v_030,Subsidios Distritales de Vivienda Generados para vivienda o mejoramiento,Nu
+v7_v_031,Número de hogares vinculados o con vivienda,Nu
+v7_v_032,"Viviendas gestionadas por localidad (VIP, VIS, NO VIS)",Nu
+v7_v_033,Viviendas VIP en construcción,Nu
+v7_v_034,Viviendas VIS en construcción,Nu
+v7_v_035,Viviendas VIP en obras de urbanismo,Nu
+v7_v_036,Viviendas VIS en obras de urbanismo,Nu
+v7_v_037,Viviendas VIP en tramites de licenciamiento,Nu
+v7_v_038,Viviendas VIS en tramites de licenciamiento,Nu
+v7_v_039,Viviendas NO VIS en tramites de licenciamiento,Nu
+v7_v_040,Viviendas VIP y VIS habilitadas,Nu
+v7_v_041,Viviendas VIP en estudios y diseños,Nu
+v7_v_042,Viviendas VIS en estudios y diseños,Nu
+v7_v_043,Viviendas NO VIS en estudios y diseños,Nu
+v7_v_048,Viviendas terminadas por localidad (VIS y NO VIS),Nu
+v7_v_049,Área (m2) de las viviendas VIS terminadas,Nu
+v7_v_050,Área (m2) de las viviendas NO VIS terminadas,Nu
+v7_v_054,Ocupaciones ilegales identificadas,Nu
+v7_v_055,Titulación de la vivienda,Nu
+v7_v_059,"Número de viviendas de estratos 1 y 2 que tuvieron mejoras en sus condiciones de habitabilidad (Estructural, habitabilidad y rural).",Nu
+v7_v_062,Número de predios urbanos base catastral,Nu
+v7_v_064,Predios clasificados como propiedad horizontal,Nu
+v7_v_065,Predios clasificados como NO propiedad horizontal,Nu
+v7_v_012_1,Número de luminarias que prestan el Servicio de Alumbrado Públic,Nu
+v8_ma_009,Porcentaje de MPA (material potencialmente aprovechable),Nu
+v8_ma_010,Número de toneladas anuales de residuos sólidos reciclados,Nu
+v8_ma_011,Porcentaje de toneladas anuales de residuos sólidos reciclados,Nu
+v8_ma_04,Generación de residuos sólidos urbanos (Kg diarios por habitante),Nu
+v8_ma_012,Residuos sólidos dispuestos en rellenos sanitarios (Total toneladas),Nu
+v8_ma_013,Material recuperado en el Centro de Acopio Alquería. (Ton/año),Nu
+v7_v_003,Tasa de cobertura del servicio de Acueducto,Nu
+v7_v_006,Tasa de cobertura alcantarillado sanitario,Nu
+v7_v_027_1,Tasa de cobertura alcantarillado pluvial,Nu
+v7_v_018_1,Número de suscriptores beneficiados por la tarifa del mínimo vital,Nu
+v8_ma_023,Consumo promedio de agua metros cúbicos al año residencial,Nu
+v8_ma_024,Consumo promedio de agua metros cúbicos al año no residencial,Nu
+v7_v_020_1,Tasa de cobertura gas natural (multipropósito),Nu
+v7_v_022_1,Tasa de cobertura de recolección de basuras,Nu
+v7_v_024_1,Porcentaje de hogares con conexión a Internet (multipropósito),Nu
+v7_v_026_1,Tasa de cobertura telefonía fija (multipropósito),Nu
+v0_ep_004,Número de metros cuadrados de espacio público restituidos voluntariamente,Nu
+v0_ep_005,Número de metros cuadrados de espacio público restituidos por hechos notorios,Nu
+v0_ep_001,"Metros cuadrados de espacio público efectivo por habitante(parques, plazas, plazoletas, zonas verdes)",Nu
+v0_ep_006,Espacio público verde por habitante,Nu
+v8_ma_042,Número de Árboles por cada 100.000 Habitantes,Ca
+v8_ma_046,Contaminación Visual (Elementos de publicidad exterior visual desmontada anualmente),Nu
+v8_ma_047,Area de metros cuadrados de elementos de publicidad exterior desmontados,Nu
+v8_ma_053,Toneladas de Escombros controladas por año,Nu
+v9_m_007,Tasa de mortalidad por accidentes de tránsito,Nu
+v9_m_018,Total víctimas fatales en accidentes de transito,Nu
+v9_m_023,Víctimas fatales por condición (peatones),Nu
+v9_m_024,Víctimas fatales por condición (motociclistas),Nu
+v9_m_025,Víctimas fatales por condición (pasajeros),Nu
+v9_m_026,Víctimas fatales por condición (conductores),Nu
+v9_m_027,Víctimas fatales por condición (ciclistas),Nu
+v9_m_028,Número total de accidentes en el SITP,Nu
+v9_m_048,Estado de la malla vial ARTERIAL bueno,Nu
+v9_m_049,Estado de la malla vial ARTERIAL regular,Nu
+v9_m_050,Estado de la malla vial ARTERIAL malo,Nu
+v9_m_051,Estado de la malla vial INTERMEDIA bueno,Nu
+v9_m_052,Estado de la malla vial INTERMEDIA regular,Nu
+v9_m_053,Estado de la malla vial INTERMEDIA malo,Nu
+v9_m_054,Estado de la malla vial LOCAL bueno,Nu
+v9_m_055,Estado de la malla vial LOCAL regular,Nu
+v9_m_056,Estado de la malla vial LOCAL malo,Nu
+v9_m_057,Recuperación de la malla vial (km anuales recuperados),Nu
+v9_m_068,Cobertura de ciclo rutas,Nu
+v9_m_070,Cobertura Bici-carril,Nu
+v9_m_076,Número de intersecciones semaforizadas,Nu
+v1_cr_008,Porcentaje de personas de 13 años y más con tendencia al sedentarismo (incluye los inactivos y poco activos),Nu
+v1_cr_010,Promedio de Libros leídos por persona al año,Nu
+v1_cr_011,Porcentaje de personas mayores de 13 años que asistieron a obras de teatro,Nu
+v1_cr_012,Porcentaje de personas mayores de 13 años que asistieron a presentaciones de musica en vivo,Nu
+v1_cr_015,Bibliotecas,Nu
+v1_cr_016,Espacios Culturales,Nu
+v1_cr_017,Museos,Nu
+v1_cr_018,Salas de cine y teatro,Nu
+v1_cr_019,Porcentajes de personas que actualmente tiene acceso a Internet en su vivienda,Nu
+v1_cr_021,Porcentaje de personas que usa Internet,Nu
+v1_cr_022,Porcentaje de personas que practica algún deporte,Nu
+v1_cr_023,"Porcentaje de personas que pertenece a un Club deportivo, social o de recreación",Nu
+v1_cr_024,"Porcentaje de personas que pertenece a una Organización artística, musical o cultural",Nu
+v1_cr_025,Porcentaje de personas que pertenece a un Grupo o partido político,Nu
+v1_cr_026,Porcentaje de personas que pertenece a una Iglesia u organización religiosa,Nu
+v1_cr_027,Porcentaje de personas que pertenece a una Organización ambientalista o ecologíca,Nu
+v1_cr_028,Porcentaje de personas que pertenece a un  movimiento étnico,Nu
+v1_cr_029,Porcentaje de personas que pertenece a una Junta de Acción comunal,Nu
+v1_cr_030,Porcentaje de personas muy satisfechas con los parques o áreas recreativa disponibles en su vecindario,Nu
+v1_cr_031,Porcentaje de personas que se ha sentido discriminado en Bogotá por por su sexo,Nu
+v1_cr_032,Porcentaje de personas muy satisfechas con las actividades culturales en su vecindario,Nu
+v1_cr_033,Porcentaje de personas muy satisfechas con las actividades deportivas o recreativas de su vecindario,Nu
+v1_cr_034,Equipamientos Culturales Públicos,Nu
+v1_cr_035,Número de parques zonales,Nu
+v1_cr_036,Número de parques de bolsillo,Nu
+v1_cr_037,Número de parques vecinales,Nu
+v1_cr_041,Porcentaje de personas que no lee ningún libro al año,Nu
+v2_pc_018,Porcentaje de sufragantes elecciones Alcaldía Mayor,Nu
+v2_pc_019,Porcentaje de sufragantes elecciones Concejo,Nu
+v2_pc_020,Porcentaje de sufragantes elecciones JAL,Nu
+v3_gp_033,Ejecución presupuestal por autorización de giros de los Fondos de Desarrollo Local,Nu
+v3_gp_038,Porcentaje de gasto de funcionamiento de los Fondos de Desarrollo Local sobre los  gastos totales de los  Fondos de Desarrollo Local,Nu
+v4_ee_004,Empresas creadas,Nu
+v4_ee_005,Empresas canceladas,Nu

@@ -1,0 +1,50 @@
+id,label,Fuente,Tipo de Fuente,Dimensión,Componente
+Localidad,Nombre de la Localidad,Variables de Identificación,Variables de Identificación,Variables de Identificación,Variables de Identificación
+Anio,Año al que corresponde el indicador,Variables de Identificación,Variables de Identificación,Variables de Identificación,Variables de Identificación
+ncmb_1,Prevalencia de bajo peso al nacer,Secretaría de Salud,Entidad del distrito,Necesidades Humanas Básicas,Nutrición y Cuidados Médicos básicos
+ncmb_2,Prevalencia de desnutrición crónica en menores de cinco años,Secretaría de Salud,Entidad del distrito,Necesidades Humanas Básicas,Nutrición y Cuidados Médicos básicos
+ncmb_3,Razón de mortalidad materna x 100.000 NV,Secretaría de Salud,Entidad del distrito,Necesidades Humanas Básicas,Nutrición y Cuidados Médicos básicos
+ncmb_4,Tasa de mortalidad Por enfermedades infecciosas y parasitarias (x 100.000 hab),Secretaría de Salud,Entidad del distrito,Necesidades Humanas Básicas,Nutrición y Cuidados Médicos básicos
+ncmb_5,Tasa de Incidencia del VIH * 100,000 hab,Secretaría de Salud,Entidad del distrito,"Necesidades Humanas Básicas,Nutrición y Cuidados Médicos básicos"
+ncmb_6,Tasa de mortalidad en menores de 1 año por 1.000 NV,Secretaría de Salud,Entidad del distrito,Necesidades Humanas Básicas,Nutrición y Cuidados Médicos básicos
+ws_1,Tasa de cobertura acueducto,Empresa de Acueducto y Alcantarillado de Bogotá,Entidad del distrito,Necesidades Humanas Básicas,Agua y Saneamiento
+ws_2,Tasa de cobertura alcantarillado,Empresa de Acueducto y Alcantarillado de Bogotá,Entidad del distrito,Necesidades Humanas Básicas,Agua y Saneamiento
+ws_3,Tasa de cobertura alcantarillado pluvial,Empresa de Acueducto y Alcantarillado de Bogotá,Entidad del distrito,Necesidades Humanas Básicas,Agua y Saneamiento
+vsp_1,Déficit cualitativo de vivienda (% hogares),Encuesta Multipropósito de Bogotá,Encuesta Multipropósito de Bogotá,Necesidades Humanas Básicas,Vivienda
+vsp_2,Déficit cuantitativo de Vivienda (% hogares),Encuesta Multipropósito de Bogotá,Encuesta Multipropósito de Bogotá,Necesidades Humanas Básicas,Vivienda
+vsp_3,Porcentaje de personas que se siente bien en su casa,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Necesidades Humanas Básicas,Vivienda
+vsp_4,Porcentaje de personas que se siente bien en su barrio,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Necesidades Humanas Básicas,Vivienda
+sp_1,Tasa de lesiones Personales,Medicina Legal,Entidad Nacional,Necesidades Humanas Básicas,Seguridad Personal
+sp_2,Tasa de homicidios por 100.000 habitantes,Medicina Legal,Entidad Nacional,Necesidades Humanas Básicas,Seguridad Personal
+sp_3,Tasa de mortalidad en accidentes de tránsito por cada 100.000 habitantes,Secretaría de Movilidad,Entidad del distrito,Necesidades Humanas Básicas,Seguridad Personal
+abc_1,Tasa de analfabetismo en  mayores de 15 años,Encuesta Multipropósito de Bogotá,Encuesta Multipropósito de Bogotá,Fundamentos del bienestar,Acceso a Conocimientos Básicos
+abc_2,Tasa bruta de cobertura básica primaria,Secretaría de educación,Entidad del distrito,Fundamentos del bienestar,Acceso a Conocimientos Básicos
+abc_3,Tasa bruta de cobertura en media,Secretaría de educación,Entidad del distrito,Fundamentos del bienestar,Acceso a Conocimientos Básicos
+abc_4,Puntaje promedio de los resultados de las pruebas SABER en lenguaje del grado 9 en los colegios distritales,Secretaría de educación,Entidad del distrito,Fundamentos del bienestar,Acceso a Conocimientos Básicos
+aic_1,Porcentaje de personas que actualmente tiene acceso a Internet ,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Fundamentos del bienestar,Acceso a Información y Comunicaciones
+aic_2,Porcentaje de personas que actualmente tiene acceso a Celular,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Fundamentos del bienestar,Acceso a Información y Comunicaciones
+aic_3,Porcentaje de Personas mayores de 10 años que Utilizan computador,Encuesta Multipropósito de Bogotá,Encuesta Multipropósito de Bogotá,Fundamentos del bienestar,Acceso a Información y Comunicaciones
+hw_1,Esperanza de vida al nacer,Secretaría de planeación,Entidad del distrito,Fundamentos del bienestar,Salud y Bienestar
+hw_2,Tasa de suicidios por cada 100.000 habitantes,Medicina Legal,Entidad Nacional,Fundamentos del bienestar,Salud y Bienestar
+hw_3,Mortalidad por enfermedades crónicas (menores de 70),Secretaría de Salud,Entidad del distrito,Fundamentos del bienestar,Salud y Bienestar
+hw_4,Porcentaje de personas de 15 años y más que practican algun deporte 3 o más días a la semana,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Fundamentos del bienestar,Salud y Bienestar
+es_1,Número de Árboles por cada 100.000 Habitantes,Jardín botánico de bogotá,Entidad del distrito,Fundamentos del bienestar,Sostenibilidad del Ecosistema
+es_2,Espacio público efectivo por habitante,Departamento Administrativo de la Defensoría del Espacio Público DADEP,Entidad del distrito,Fundamentos del bienestar,Sostenibilidad del Ecosistema
+es_3,Material recuperado en el Centro de Acopio Alquería. (Ton/año) Tasa por cada 100.000 habitantes,UAESP,Entidad del distrito,Fundamentos del bienestar,Sostenibilidad del Ecosistema
+es_4,Indicador de alternativas de transporte,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Fundamentos del bienestar,Sostenibilidad del Ecosistema
+pr_1,Porcentaje de personas que se sienten muy satisfechos con la facilidad de transporte en el sector donde vive ,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Derechos Personales
+pr_2,Porcentaje de personas dueñas del lugar donde habita,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Derechos Personales
+pr_3,Porcentaje de personas miembros de un grupo de acción social (partidos politicos, organización ecologista, juntas de acción comunal),Encuesta Bienal de Culturas,"Encuesta Bienal de Culturas,Oportunidade, Derechos Personaless"
+pr_4,Participación en elecciones a alcaldía mayor,Registraduría Nacional,Entidad Nacional,Oportunidades,Derechos Personales
+pfc_1,Fecundidad especifica para adolescentes de 10 a 14 años,Secretaría de Salud,Entidad del distrito,Oportunidades,Libertad Personal y de Elección
+pfc_2,Porcentaje de personas que se sienten bien en su localidad,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Libertad Personal y de Elección
+pfc_3,Número de parques zonales, vecinales y de bolsillo por cada 100.000 habitantes,IDRD,Entidad del distrito,"Oportunidades, Libertad Personal y de Elección"
+ti_1,Porcentaje de personas que se sienten satisfechos o muy satisfechos con sus relaciones vecinales,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Tolerancia e Inclusión
+ti_2,Porcentaje de personas que se han sentido discriminado en Bogotá,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Tolerancia e Inclusión
+ti_3,Porcentaje de personas que se sienten bogotano(a),Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Tolerancia e Inclusión
+ti_4,Porcentaje de personas que consideran que en su vecindario hay Familias conflictivas que se pelean mucho entre ellos,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Tolerancia e Inclusión
+ti_5,Porcentaje de personas de acuerdo con que se prohiban las expresiones que moelestan a la mayoría,Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Tolerancia e Inclusión
+aes_1,Puntaje promedio de colegios distritales en Matemáticas,Ministerio de Educación Nacional,Entidad Nacional,Oportunidades,Acceso a Educación Superior
+aes_2,Puntaje promedio de colegios distritales en Lenguaje,Ministerio de Educación Nacional,Entidad Nacional,Oportunidades,Acceso a Educación Superior
+aes_3,Porcentaje de población con educación superior INCOMPLETA (T&T+Universitario),Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Acceso a Educación Superior
+aes_4,Porcentaje de población con educación superior COMPLETA (T&T+Universitario),Encuesta Bienal de Culturas,Encuesta Bienal de Culturas,Oportunidades,Acceso a Educación Superior

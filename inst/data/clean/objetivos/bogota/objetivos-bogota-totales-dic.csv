@@ -1,0 +1,511 @@
+names,Description
+Ciudad,Ciudad del dato
+Localidad,Localidad
+Anio,Año del dato
+v1_d_001,Población Total
+v1_d_003,Población Hombres
+v1_d_004,Población Mujeres
+v1_d_005,Extensión territorial área km2 (area urbana)
+v1_d_006,Extensión territorial área km2 (total)
+v1_d_007,Extensión territorial área hectáreas
+v1_d_008,Densidad poblacional por Km2 (urbana)
+v1_d_009,Densidad poblacional por Km2 (total)
+v1_d_010,Tasa  de Crecimiento de la Población
+v1_d_011,Índice de Envejecimiento
+v1_d_012,Índice de Envejecimiento Hombres
+v1_d_013,Índice de Envejecimiento Mujeres
+v1_d_014,Tasa de Dependencia
+v1_d_015,Tasa de Dependencia hombres
+v1_d_016,Tasa de Dependencia mujeres
+v1_d_017,Porcentaje de Población Indígena
+v1_d_018,Porcentaje de Población Afrodescendientes
+v1_d_019,Esperanza de vida al nacer
+v1_d_020,Esperanza de vida al nacer Hombres
+v1_d_021,Esperanza de vida al nacer Mujeres
+v2_p_004,coeficiente de Gini de los ingresos
+v2_p_009,Coeficiente de Gini Bogotá Multipróposito
+v2_p_010,Índice de condiciones de vida ICV Multipropósito
+v2_p_011,Índice de Pobreza Multidimensional Bogotá
+v2_p_012,Índice de Pobreza Multidimensional Multipropósito
+v2_p_002,Incidencia pobreza monetaria extrema
+v2_p_013,Población bajo la línea de indigencia Bogotá Multipropósito
+v2_p_001,Incidencia pobreza monetaria
+v2_p_014,Población bajo la línea de pobreza Bogotá Multipropósito
+v2_p007,Tasa de trabajo infantil
+v2_p_015,Porcentaje de hogares con jefatura femenina
+v2_p_016,Porcentaje de hogares que posee computador
+v3_s_013,Cobertura de vacunación con anti haemophilus influenzae tipo B en menores de un año
+v3_s_014,Cobertura de vacunación con antipolio en menores de un año
+v3_s_015,Cobertura de vacunación con BCG en niños menores de un año
+v3_s_009,Cobertura en vacunación con Triple Viral
+v3_s_008,Cobertura en vacunación  DTP tercera dosis
+v3_s_016,Cobertura de vacunación contra fiebre amarilla en niños de un año de edad
+v3_s_017,Cobertura de vacunación contra hepatitis B en menores de un año
+v3_s_012,Porcentaje de desnutrición crónica en menores de 5 años
+v3_s_018,Tasa de desnutrición global para menores de 5 años (prevalencia)
+v3_s_019,Nacimientos en adolescentes de 10 a 14 años
+v3_s_020,Nacimientos en adolescentes de 15 a 19 años
+v3_s_021,Número de personas afiliadas al régimen subsidiado (Subsidio pleno)
+v3_s_022,Cobertura de población afiliada al régimen subsidiado en total de la población
+v3_s_023,Porcentaje de personas vinculadas pero no afiliadas
+v3_s_024,Cobertura al régimen contributivo
+v3_s_025,Cobertura al régimen de excepción
+v3_s_026,Mediana de lactancia materna
+v3_s_005,Tasa de mortalidad materna
+v3_s_006,Porcentaje de nacidos vivos con bajo peso al nacer
+v3_s_011,Tasa de mortalidad en menores de 5 años
+v3_s_010,Tasa de mortalidad en menores de 1 año
+v3_s_027,Tasa de mortalidad perinatal por 1.000 nacidos vivos
+v3_s_028,Tasa de mortalidad por desnutrición en niños y niñas menores de cinco años (por 100.000 menores de cinco años)
+v3_s_029,Tasa de mortalidad por enfermedad diarreica aguda EDA por 100.000 menores de cinco años
+v3_s_030,Tasa de mortalidad  por Infeccion Respiratoria Aguda IRA por 100.000 menores de cinco años
+v3_s_031,Tasa de mortalidad por neumonía por 100.000 menores de cinco años
+v3_s_032,"Incidencia del VIH * 100,000 hab"
+v3_s_033,Mortalidad por cáncer de mama (número de casos)
+v3_s_034,Mortalidad por cáncer de útero por cada 100.000 mujeres
+v3_s_035,Consumo de sustancias psicoactivas
+v3_s_036,Número de Camas hospitalarias por 1.000_x000D_ habitantes.
+v3_s_037,Número de ambulancias por cada 100.000 habitantes.
+v3_s_038,Cinco primeras causas de morbilidad atendida en consulta externa red adscrita
+v3_s_039,Cinco primeras causas de morbilidad atendida en consulta externa red NO adscrita
+v4_e_012,Tasa global de cobertura bruta en educación
+v4_e_001,Tasa de cobertura bruta en educación inicial
+v4_e_013,Tasa bruta de cobertura Preescolar (5 años)
+v4_e_014,Tasa bruta de cobertura básica primaria
+v4_e_015,Tasa bruta de cobertura en básica secundaria
+v4_e_016,Tasa bruta de cobertura en media vocacional
+v4_e_017,Tasa  de cobertura en educación en técnica
+v4_e_018,Tasa global de cobertura neta ajustada
+v4_e_002,Tasa de cobertura neta en básica preescolar
+v4_e_003,Tasa de cobertura neta en básica primaria
+v4_e_004,Tasa de cobertura neta en básica secundaria
+v4_e_005,Tasa de cobertura neta en media vocacional
+v4_e_019,Población en edad escolar de 5 a 16 años por localidades
+v4_e_020,Matricula oficial primera infancia grado pre-jardín
+v4_e_021,Matricula privada primera infancia grado pre-jardín
+v4_e_022,Matricula oficial primera infancia grado jardín
+v4_e_023,Matricula privada primera infancia grado jardín
+v4_e_024,Matricula oficial primera infancia grado transición
+v4_e_025,Matricula Privada primera infancia grado transición
+v4_e_027,Matricula oficial primera infancia total
+v4_e_028,Matricula Privada primera infancia total
+v4_e_007,"Tasa de deserción educación preescolar, básica primaria, básica secundaria y media vocacional pública"
+v4_e_029,"Tasa de deserción educación preescolar, básica primaria, básica secundaria y media vocacional privada"
+v4_e_030,Tasa de deserción educación preescolar pública
+v4_e_031,Tasa  de Deserción para el Sector Privado Preescolar
+v4_e_032,Tasa de deserción educación primaria pública
+v4_e_033,Tasa  de Deserción para el Sector Privado Primaria
+v4_e_034,Tasa de deserción educación secundaria pública
+v4_e_035,Tasa  de Deserción para el Sector Privado Secundaria
+v4_e_036,Tasa de deserción educación media pública
+v4_e_037,Tasa  de Deserción para el Sector Privado Media
+v4_e_038,"Tasa de repitencia en básica primaria, básica secundaria y media vocacional pública"
+v4_e_039,"Tasa de repitencia en básica primaria, básica secundaria y media vocacional privada"
+v4_e_041,Tasa de repitencia preescolar pública
+v4_e_042,Tasa de repitencia en preescolar para sector privado
+v4_e_043,Tasa de repitencia primaria pública
+v4_e_044,Tasa de repitencia en primaria para sector privado
+v4_e_046,Tasa de repitencia secundaria pública
+v4_e_047,Tasa de repitencia en secundaria para sector privado
+v4_e_049,Tasa de repitencia media pública
+v4_e_051,Tasa de repitencia en media para sector privado
+v4_e_052,Años promedio de educación población de 15 a 24 años
+v4_e_053,Tasa de analfabetismo de 15 a 24 años
+v4_e_054,Relación Alumno docente preescolar pública
+v4_e_055,Relación Alumno docente primaria pública
+v4_e_056,Relación Alumno docente básica secundaria y media pública
+v4_e_057,Relación Alumno docente total pública
+v4_e_059,Número de estudiantes matriculados en carreras técnicas
+v4_e_060,"Porcentaje de los colegios oficiales clasificados en las categorías ""A+ ""y ""A"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_061,"Porcentaje de los colegios oficiales clasificados en ""B "" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_062,"Porcentaje de los colegios oficiales clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_063,"Porcentaje de los colegios NO oficiales clasificados en las categorías ""A+"" y ""A"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_064,"Porcentaje de los colegios NO oficiales clasificados en categoría ""B"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_065,"Porcentaje de los colegios NO oficiales clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_066,"Porcentaje de los colegios en Concesión clasificados en ""A+ "" y ""A"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_067,"Porcentaje de los colegios en Concesión clasificados en ""B"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_068,"Porcentaje de los colegios en concesión clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_069,"Porcentaje de los colegios en Convenio clasificados en ""A+ "" y ""A"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_070,"Porcentaje de los colegios en Convenio clasificados en ""B"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_071,"Porcentaje de los colegios en Convenio clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_072,"Porcentaje de los colegios en régimen especial clasificados en ""A+ "" y ""A"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_073,"Porcentaje de los colegios en régimen especial clasificados en ""B"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_074,"Porcentaje de los colegios en régimen especial clasificados en ""C "" y ""D"" por rendimiento en las pruebas de Estado SABER 11"
+v4_e_075,"Porcentaje de los colegios oficiales clasificados en las categorías alto, superior y muy superior por rendimiento en las pruebas de Estado SABER 11"
+v4_e_076,"Porcentaje de los colegios NO oficiales clasificados en las categorías alto, superior y muy superior por rendimiento en las pruebas de Estado SABER 11"
+v4_e_077,"Porcentaje de los colegios oficiales EN CONCESIÓN clasificados en las categorías alto, superior y muy superior por rendimiento en las pruebas de Estado SABER 11"
+v4_e_078,"Porcentaje de los colegios oficiales EN CONVENIO clasificados en las categorías alto, superior y muy superior por rendimiento en las pruebas de Estado SABER 11"
+v4_e_079,"Porcentaje de colegios oficiales en categoría medio, bajo, inferior y muy inferior en la prueba SABER 11."
+v4_e_080,"Porcentaje de colegios NO oficiales en categoría medio, bajo, inferior y muy inferior en la prueba SABER 11."
+v4_e_081,"Porcentaje de estudiantes que se ubicaron en el nivel avanzado, Pruebas SABER 3, area de Lenguajes"
+v4_e_082,"Porcentaje de estudiantes que se ubicaron en el nivel satisfactorio, Pruebas SABER 3, area de Lenguajes"
+v4_e_083,"Porcentaje de estudiantes que se ubicaron en el nivel mínimo, Pruebas SABER 3, area de Lenguajes"
+v4_e_084,"Porcentaje de estudiantes que se ubicaron en el nivel insuficiente, Pruebas SABER 3, area de Lenguajes"
+v4_e_085,"Porcentaje de estudiantes que se ubicaron en el nivel avanzado, Pruebas SABER 5, area de Lenguajes"
+v4_e_086,"Porcentaje de estudiantes que se ubicaron en el nivel satisfactorio, Pruebas SABER 5, area de Lenguajes"
+v4_e_087,"Porcentaje de estudiantes que se ubicaron en el nivel mínimo, Pruebas SABER 5, area de Lenguajes"
+v4_e_088,"Porcentaje de estudiantes que se ubicaron en el nivel insuficiente, Pruebas SABER 5, area de Lenguajes"
+v4_e_089,"Porcentaje de estudiantes que se ubicaron en el nivel avanzado, Pruebas SABER 9, area de Lenguajes"
+v4_e_090,"Porcentaje de estudiantes que se ubicaron en el nivel satisfactorio, Pruebas SABER 9, area de Lenguajes"
+v4_e_091,"Porcentaje de estudiantes que se ubicaron en el nivel mínimo, Pruebas SABER 9, area de Lenguajes"
+v4_e_092,"Porcentaje de estudiantes que se ubicaron en el nivel insuficiente, Pruebas SABER 9, area de Lenguajes"
+v4_e_093,"Porcentaje de estudiantes que se ubicaron en el nivel avanzado, Pruebas SABER 3, area de Matemáticas"
+v4_e_094,"Porcentaje de estudiantes que se ubicaron en el nivel satisfactorio, Pruebas SABER 3, area de Matemáticas"
+v4_e_095,"Porcentaje de estudiantes que se ubicaron en el nivel mínimo, Pruebas SABER 3, area de Matemáticas"
+v4_e_096,"Porcentaje de estudiantes que se ubicaron en el nivel insuficiente, Pruebas SABER 3, area de Matemáticas"
+v4_e_097,"Porcentaje de estudiantes que se ubicaron en el nivel avanzado, Pruebas SABER 5, area de Matemáticas"
+v4_e_098,"Porcentaje de estudiantes que se ubicaron en el nivel satisfactorio, Pruebas SABER 5, area de Matemáticas"
+v4_e_099,"Porcentaje de estudiantes que se ubicaron en el nivel mínimo, Pruebas SABER 5, area de Matemáticas"
+v4_e_100,"Porcentaje de estudiantes que se ubicaron en el nivel insuficiente, Pruebas SABER 5, area de Matemáticas"
+v4_e_101,"Porcentaje de estudiantes que se ubicaron en el nivel avanzado, Pruebas SABER 9, area de Matemáticas"
+v4_e_102,"Porcentaje de estudiantes que se ubicaron en el nivel satisfactorio, Pruebas SABER 9, area de Matemáticas"
+v4_e_103,"Porcentaje de estudiantes que se ubicaron en el nivel mínimo, Pruebas SABER 9, area de Matemáticas"
+v4_e_104,"Porcentaje de estudiantes que se ubicaron en el nivel insuficiente, Pruebas SABER 9, area de Matemáticas"
+v4_e_105,"Porcentaje de estudiantes que se ubicaron en el nivel avanzado, Pruebas SABER 5, area de Ciencias Naturales"
+v4_e_106,"Porcentaje de estudiantes que se ubicaron en el nivel satisfactorio, Pruebas SABER 5, area de Ciencias Naturales"
+v4_e_107,"Porcentaje de estudiantes que se ubicaron en el nivel mínimo, Pruebas SABER 5, area de Ciencias Naturales"
+v4_e_108,"Porcentaje de estudiantes que se ubicaron en el nivel insuficiente, Pruebas SABER 5, area de Ciencias Naturales"
+v4_e_109,"Porcentaje de estudiantes que se ubicaron en el nivel avanzado, Pruebas SABER 9, area de Ciencias Naturales"
+v4_e_110,"Porcentaje de estudiantes que se ubicaron en el nivel satisfactorio, Pruebas SABER 9, area de Ciencias Naturales"
+v4_e_111,"Porcentaje de estudiantes que se ubicaron en el nivel mínimo, Pruebas SABER 9, area de Ciencias Naturales"
+v4_e_112,"Porcentaje de estudiantes que se ubicaron en el nivel insuficiente, Pruebas SABER 9, area de Ciencias Naturales"
+v4_e_113,Tasa de cobertura bruta en educación universitaria
+v5_ml_001,Tasa global de participacion
+v5_ml_006,Tasa global de participación Multipropósito
+v5_ml_002,Tasa de ocupación
+v5_ml_007,Tasa de Ocupación Multipropósito
+v5_ml_004,Tasa de desempleo
+v5_ml_008,Tasa de Desempleo Multipropósito
+v5_ml_009,Tasa de crecimiento del empleo
+v5_ml_010,Tasa de subempleo (objetivo)
+v5_ml_011,Tasa de desempleo Jefes de hogar
+v5_ml_012,Tasa de desempleo Jefes de hogar Multipropósito
+v5_ml_003,Tasa de informalidad
+v5_ml_015,Tasa de cobertura en pensiones Multipropósito
+v6_sc_013,Número de adolescentes que vinculados al Sistema de Responsabilidad Penal para Adolescentes
+v6_sc_014,Número de  hurtos a bancos
+v6_sc_015,Tasa de hurto a bancos
+v6_sc_016,Número de hurto a establecimientos de comercio
+v6_sc_017,Tasa de hurto a establecimientos de comercio
+v6_sc_018,Número de hurtos a motos
+v6_sc_012,Tasa de hurto de motocicletas
+v6_sc_019,Número de hurtos a personas
+v6_sc_020,Tasa de hurto a personas
+v6_sc_021,Número de hurtos a residencias
+v6_sc_022,Tasa de hurto a residencias
+v6_sc_023,Número de hurtos a vehículos
+v6_sc_011,Tasa de hurto a automóviles
+v6_sc_024,Número de Secuestros
+v6_sc_025,Número de lesiones Inter personales MUJERES
+v6_sc_026,Número de lesiones Inter personales HOMBRES
+v6_sc_027,Número de lesiones personales
+v6_sc_006,Tasa de lesiones personales
+v6_sc_005,Tasa de Homicidios por cada 100 mil habitantes
+v6_sc_028,Numero de homicidios
+v6_sc_029,Tasa de muertes violentas por 100.000 habitantes
+v6_sc_030,Tasa de suicidios por 100.000 habitantes
+v6_sc_031,Número de suicidios
+v6_sc_032,Victimización  directa
+v6_sc_033,Denuncia
+v6_sc_034,Percepción de inseguridad
+v6_sc_035,Tasa de habitantes de calle por 10.000 habitantes
+v7_v_012,Porcentaje de déficit de vivienda (Estimada)
+v7_v_013,Porcentaje de déficit cuantitativo de vivienda
+v7_v_014,Porcentaje de déficit cualitativo de vivienda
+v7_v_015,Stock de vivienda
+v7_v_016,Producción de viviendas por cada 1000 habitantes
+v7_v_017,Tenencia de vivienda propia totalmente pagada
+v7_v_018,Tenencia de vivienda propia totalmente pagada (Multipropósito)
+v7_v_019,Tenencia de vivienda propia en proceso de pago
+v7_v_020,Tenencia de vivienda propia en proceso de pago (Multipropósito)
+v7_v_021,Tenencia de vivienda en arriendo o subarriendo
+v7_v_022,Tenencia de vivienda en arriendo o subarriendo (Multipropósito)
+v7_v_024,Número de vivienda con Déficit cuantitativo
+v7_v_025,Número de hogares con Déficit cualitativo de vivienda
+v7_v_026,Hacinamiento crítico no mitigable (hogares)
+v7_v_027,Número de viviendas VIP habilitadas por Gestión Pública VIP
+v7_v_028,Número de viviendas VIP habilitadas por Gestión Pública VIP-VIS Privados
+v7_v_029,Unidades construidas  VIS - VIP en Sitio Propio Cajas de Compensación Familiar y EAB-ESP 2011-2014
+v7_v_030,Subsidios Distritales de Vivienda Generados para vivienda o mejoramiento
+v7_v_031,Número de hogares vinculados o con vivienda
+v7_v_032,"Viviendas gestionadas por localidad (VIP, VIS, NO VIS)"
+v7_v_033,Viviendas VIP en construcción
+v7_v_034,Viviendas VIS en construcción
+v7_v_035,Viviendas VIP en obras de urbanismo
+v7_v_036,Viviendas VIS en obras de urbanismo
+v7_v_037,Viviendas VIP en tramites de licenciamiento
+v7_v_038,Viviendas VIS en tramites de licenciamiento
+v7_v_039,Viviendas NO VIS en tramites de licenciamiento
+v7_v_040,Viviendas VIP y VIS habilitadas
+v7_v_041,Viviendas VIP en estudios y diseños
+v7_v_042,Viviendas VIS en estudios y diseños
+v7_v_043,Viviendas NO VIS en estudios y diseños
+v7_v_044,Tiempo de los trámites de la cadena de urbanismo y construcción
+v7_v_045,Número de viviendas iniciadas VIP
+v7_v_046,Número de viviendas iniciadas VIS
+v7_v_047,Número de viviendas iniciadas NO VIS
+v7_v_048,Viviendas terminadas por localidad (VIS y NO VIS)
+v7_v_049,Área (m2) de las viviendas VIS terminadas
+v7_v_050,Área (m2) de las viviendas NO VIS terminadas
+v7_v_051,Número de  viviendas ubicadas en zonas de alto riesgo
+v7_v_052,Número de familias recomendadas para ser reasentadas por parte de la Caja de la Vivienda Popular
+v7_v_053,Número de hogares en asentamientos de viviendas de origen informal
+v7_v_054,Ocupaciones ilegales identificadas
+v7_v_055,Titulación de la vivienda
+v7_v_056,Número de viviendas habilitadas metrovivienda Privados
+v7_v_057,Número de hectáreas de origen ilegal legalizadas (trámite resuelto positivamente)
+v7_v_058,Número de familias que vivían en zonas de alto riesgo no mitigable o en rondas de cuerpos de agua que fueron reasentadas y se les entregó vivienda de reposición
+v7_v_059,"Número de viviendas de estratos 1 y 2 que tuvieron mejoras en sus condiciones de habitabilidad (Estructural, habitabilidad y rural)."
+v7_v_060,Predios urbanos (censo inmobiliario)
+v7_v_061,Número de predios  base catastral  (rural y urbano)
+v7_v_062,Número de predios urbanos base catastral
+v7_v_063,Número de predios  rurales base catastral.
+v7_v_064,Predios clasificados como propiedad horizontal
+v7_v_065,Predios clasificados como NO propiedad horizontal
+v7_v_066,Area licenciada destino vivienda
+v7_v_067,Area licenciada destino industria
+v7_v_068,Area licenciada destino comercio
+v7_v_069,Area licenciada otros destinos
+v7_v_070,Número de viviendas nuevas
+v7_v_012_1,Número de luminarias que prestan el Servicio de Alumbrado Públic
+v7_v_013_1,Porcentaje de acceso a telefonia fija
+v8_ma_009,Porcentaje de MPA (material potencialmente aprovechable)
+v8_ma_010,Número de toneladas anuales de residuos sólidos reciclados
+v8_ma_011,Porcentaje de toneladas anuales de residuos sólidos reciclados
+v8_ma_04,Generación de residuos sólidos urbanos (Kg diarios por habitante)
+v8_ma_012,Residuos sólidos dispuestos en rellenos sanitarios (Total toneladas)
+v8_ma_013,Material recuperado en el Centro de Acopio Alquería. (Ton/año)
+v7_v_003,Tasa de cobertura del servicio de Acueducto
+v7_v_006,Tasa de cobertura alcantarillado sanitario
+v7_v_027_1,Tasa de cobertura alcantarillado pluvial
+v7_v_014_1,Número de suscriptores residenciales del servicio de acueducto
+v7_v_015_1,Número de suscriptores residenciales del servicio de alcantarillado
+v7_v_016_1,"Número de suscriptores (industrial, comercial, oficial, y otros) del servicio de acueducto"
+v7_v_017_1,"Número de suscriptores (industrial, comercial, oficial, y otros) del servicio de alcantarillado sanitario"
+v8_ma_014,Indice de riesgo de la calidad del agua para consumo humano IRCA
+v7_v_018_1,Número de suscriptores beneficiados por la tarifa del mínimo vital
+v8_ma_015,Índice de calidad del agua
+v8_ma_041,Porcentaje de aguas residuales que reciben tratamiento de acuerdo a normas nacionales
+v8_ma_016,Consumo promedio de agua metros cúbicos al día ESTRATO 1
+v8_ma_017,Consumo promedio de agua metros cúbicos al día ESTRATO 2
+v8_ma_018,Consumo promedio de agua metros cúbicos al día ESTRATO 3
+v8_ma_019,Consumo promedio de agua metros cúbicos al día ESTRATO 4
+v8_ma_020,Consumo promedio de agua metros cúbicos al día ESTRATO 5
+v8_ma_021,Consumo promedio de agua metros cúbicos al día ESTRATO 6
+v8_ma_022,Consumo promedio de agua anual en metros cúbicos (residencial y no residencial)
+v8_ma_02,Consumo anual de agua por habitante
+v8_ma_023,Consumo promedio de agua metros cúbicos al año residencial
+v8_ma_024,Consumo promedio de agua metros cúbicos al año no residencial
+v7_v_019_1,Tasa de cobertura energía eléctrica
+v7_v_020_1,Tasa de cobertura gas natural (multipropósito)
+v7_v_021_1,Tasa de cobertura gas natural
+v7_v_022_1,Tasa de cobertura de recolección de basuras
+v7_v_023,Porcentaje de hogares con conexión a Internet
+v7_v_024_1,Porcentaje de hogares con conexión a Internet (multipropósito)
+v7_v_025_1,Número de suscriptores del servicio de internet dedicado (IV Trim)
+v7_v_026_1,Tasa de cobertura telefonía fija (multipropósito)
+v0_ep_003,Numero de metros cuadrados de espacio público recuperados
+v0_ep_004,Número de metros cuadrados de espacio público restituidos voluntariamente
+v0_ep_005,Número de metros cuadrados de espacio público restituidos por hechos notorios
+v0_ep_001,"Metros cuadrados de espacio público efectivo por habitante(parques, plazas, plazoletas, zonas verdes)"
+v0_ep_006,Espacio público verde por habitante
+v0_ep_007,Promedio de espacio público peatonal por habitante
+v8_ma_025,Índice de calidad hídrica en el Río Torca TRAMO 1
+v8_ma_026,Índice de calidad hídrica en el Río Torca TRAMO 2
+v8_ma_027,Índice de calidad hídrica en el Río Fucha TRAMO 1
+v8_ma_028,Índice de calidad hídrica en el Río Fucha TRAMO 2
+v8_ma_029,Índice de calidad hídrica en el Río Fucha TRAMO 3
+v8_ma_030,Índice de calidad hídrica en el Río Fucha TRAMO 4
+v8_ma_031,Índice de calidad hídrica en el Río Tunjuelo TRAMO 1
+v8_ma_032,Índice de calidad hídrica en el Río Tunjuelo TRAMO 2
+v8_ma_033,Índice de calidad hídrica en el Río Tunjuelo TRAMO 3
+v8_ma_034,Índice de calidad hídrica en el Río Tunjuelo TRAMO 4
+v8_ma_035,Índice de calidad hídrica en el Río Salitre TRAMO 1
+v8_ma_036,Índice de calidad hídrica en el Río Salitre TRAMO 2
+v8_ma_037,Índice de calidad hídrica en el Río Salitre TRAMO 3
+v8_ma_038,Índice de calidad hídrica en el Río Salitre TRAMO 4
+v8_ma_039,Nivel de contaminación hídrica SST transportados al Río Bogotá medidos en toneladas
+v8_ma_040,Nivel de contaminación hídrica  DBO5 transportados el Río de Bogotá medidos en toneladas
+v8_ma_03,Porcentaje de aguas residuales que reciben tratamiento de acuerdo a normas nacionales
+v0_ep_008,Área verde por habitante
+v8_ma_042,Número de Árboles por cada 100.000 Habitantes
+v8_ma_043,"Número de Km. de ríos urbanos con índice de calidad hídrica en nivel de aceptable o superior  (ríos Torca, Salitre, Fucha y Tunjuelo)"
+v8_ma_05,Concentración de partículas PM 10
+v8_ma_044,Nivel de concentración media anual de partículas de polvo en 2.5 (PM2.5)
+v8_ma_045,Número de registros legalizados de publicidad exterior visual.
+v8_ma_046,Contaminación Visual (Elementos de publicidad exterior visual desmontada anualmente)
+v8_ma_047,Area de metros cuadrados de elementos de publicidad exterior desmontados
+v8_ma_048,Contaminación  Sonora (Industrial)
+v8_ma_049,Contaminación  Sonora (Comercial)
+v8_ma_050,Contaminación Sonora (Servicios)
+v8_ma_051,Contaminación  Sonora (Residencial)
+v8_ma_052,Porcentaje de vehículos que cumplen la norma de emisión de gases.
+v8_ma_053,Toneladas de Escombros controladas por año
+v9_m_016,Total accidentes de tránsito
+v9_m_017,Tasa de morbilidad en accidentes de tránsito por cada 100.000 habitantes
+v9_m_007,Tasa de mortalidad por accidentes de tránsito
+v9_m_018,Total víctimas fatales en accidentes de transito
+v9_m_019,Tasa de morbilidad en accidentes de transito x 10.000 vehículos
+v9_m_020,Tasa de mortalidad en accidentes de transito x 10.000 vehiculos
+v9_m_021,Mujeres victimas fatales de accidentes de tránsito
+v9_m_022,Hombres victimas fatales de accidentes de tránsito
+v9_m_023,Víctimas fatales por condición (peatones)
+v9_m_024,Víctimas fatales por condición (motociclistas)
+v9_m_025,Víctimas fatales por condición (pasajeros)
+v9_m_026,Víctimas fatales por condición (conductores)
+v9_m_027,Víctimas fatales por condición (ciclistas)
+v9_m_028,Número total de accidentes en el SITP
+v9_m_029,Número total de accidentes totales en el sistema Transmilenio.
+v9_m_030,Infracciones a vehículos no automotores
+v9_m_031,Infracciones a peatones
+v9_m_032,Infracciones a vehiculos automotores
+v9_m_033,Comparendos por infracción tecnico mecanica
+v9_m_034,Comparendos por infracción operativos emisiones
+v9_m_035,Tiempo promedio de desplazamiento de las personas en la ciudad (minutos)
+v9_m_036,Tiempo total de viaje TPC
+v9_m_037,Tiempo total de viaje Transmilenio
+v9_m_038,Tiempo total de viaje SITP
+v9_m_039,Tiempo total de viaje Alimentadores
+v9_m_040,Tiempo total de viaje Taxi
+v9_m_041,Tiempo total de viaje Moto
+v9_m_042,Tiempo total de viaje Particular
+v9_m_043,Tiempo total de viaje Bicicleta
+v9_m_044,Tiempo total de viaje A pie
+v9_m_045,Estado de la malla vial bueno
+v9_m_046,Estado de la malla vial malo
+v9_m_047,Estado de la malla vial regular
+v9_m_048,Estado de la malla vial ARTERIAL bueno
+v9_m_049,Estado de la malla vial ARTERIAL regular
+v9_m_050,Estado de la malla vial ARTERIAL malo
+v9_m_051,Estado de la malla vial INTERMEDIA bueno
+v9_m_052,Estado de la malla vial INTERMEDIA regular
+v9_m_053,Estado de la malla vial INTERMEDIA malo
+v9_m_054,Estado de la malla vial LOCAL bueno
+v9_m_055,Estado de la malla vial LOCAL regular
+v9_m_056,Estado de la malla vial LOCAL malo
+v9_m_057,Recuperación de la malla vial (km anuales recuperados)
+v9_m_058,Pasajeros diarios movilizados por transporte público masivo (Transmilenio)
+v9_m_059,Promedio de pasajeros en hora pico en Transmilenio
+v9_m_060,Número total de pasajeros interurbanos transportados integrados a Transmilenio
+v9_m_061,Promedio anual de velocidad en transporte público (km/hora).
+v9_m_062,Promedio anual de velocidad de transporte individual (taxi) (km/hora).
+v9_m_063,Promedio anual de velocidad particular (km/hora).
+v9_m_064,Velocidad promedio de recorrido en el SITP
+v9_m_065,Velocidad promedio de recorrido en Transmilenio
+v9_m_066,Muertes en el sistema Transmilenio
+v9_m_067,Heridos en el sistema Transmilenio
+v9_m_068,Cobertura de ciclo rutas
+v9_m_070,Cobertura Bici-carril
+v9_m_071,"Parque automotor de transporte particular (auto, campero, camioneta)"
+v9_m_072,Parque automotor de transporte particular (motocicletas)
+v9_m_073,Parque automotor de transporte público
+v9_m_074,Parque automotor transporte público individual (taxis amarillos)
+v9_m_075,"Charratización buses, busetas y microbusetas"
+v9_m_076,Número de intersecciones semaforizadas
+v1_cr_004,Número de cupos a eventos culturales
+v1_cr_005,Eventos culturales
+v1_cr_006,Eventos culturales locales
+v1_cr_007,Porcentaje de población mayor de 13 años que practica alguna actividad artística de forma habitual
+v1_cr_008,Porcentaje de personas de 13 años y más con tendencia al sedentarismo (incluye los inactivos y poco activos)
+v1_cr_009,Habitantes por instalaciones deportivas públicas
+v1_cr_010,Promedio de Libros leídos por persona al año
+v1_cr_011,Porcentaje de personas mayores de 13 años que asistieron a obras de teatro
+v1_cr_012,Porcentaje de personas mayores de 13 años que asistieron a presentaciones de musica en vivo
+v1_cr_013,Numero de niños y niñas por biblioteca
+v1_cr_014,Número de adultos por biblioteca
+v1_cr_015,Bibliotecas
+v1_cr_016,Espacios Culturales
+v1_cr_017,Museos
+v1_cr_018,Salas de cine y teatro
+v1_cr_019,Porcentajes de personas que actualmente tiene acceso a Internet en su vivienda
+v1_cr_021,Porcentaje de personas que usa Internet
+v1_cr_022,Porcentaje de personas que practica algún deporte
+v1_cr_023,"Porcentaje de personas que pertenece a un Club deportivo, social o de recreación"
+v1_cr_024,"Porcentaje de personas que pertenece a una Organización artística, musical o cultural"
+v1_cr_025,Porcentaje de personas que pertenece a un Grupo o partido político
+v1_cr_026,Porcentaje de personas que pertenece a una Iglesia u organización religiosa
+v1_cr_027,Porcentaje de personas que pertenece a una Organización ambientalista o ecologíca
+v1_cr_028,Porcentaje de personas que pertenece a un  movimiento étnico
+v1_cr_029,Porcentaje de personas que pertenece a una Junta de Acción comunal
+v1_cr_030,Porcentaje de personas muy satisfechas con los parques o áreas recreativa disponibles en su vecindario
+v1_cr_031,Porcentaje de personas que se ha sentido discriminado en Bogotá por por su sexo
+v1_cr_032,Porcentaje de personas muy satisfechas con las actividades culturales en su vecindario
+v1_cr_033,Porcentaje de personas muy satisfechas con las actividades deportivas o recreativas de su vecindario
+v1_cr_034,Equipamientos Culturales Públicos
+v1_cr_035,Número de parques zonales
+v1_cr_036,Número de parques de bolsillo
+v1_cr_037,Número de parques vecinales
+v1_cr_039,Número de libros disponibles en la red pública de bibliotecas.
+v1_cr_040,Salas de espectáculos y concierto
+v1_cr_041,Porcentaje de personas que no lee ningún libro al año
+v3_gp_010,Porcentaje de personas que pagan el predial (en la vigencia)
+v3_gp_011,Porcentaje de personas que pagan el adicional del predial
+v3_gp_012,Porcentaje de personas que pagan el predial por plazos
+v3_gp_013,Porcentaje de evasión de impuesto
+v3_gp_014,Número de contribuyentes pertenecientes al régimen común y declarantes del Impuesto de Industria y Comercio
+v2_pc_018,Porcentaje de sufragantes elecciones Alcaldía Mayor
+v2_pc_019,Porcentaje de sufragantes elecciones Concejo
+v2_pc_020,Porcentaje de sufragantes elecciones JAL
+v2_pc_021,Numero de votos totales elecciones Presidente
+v2_pc_022,Numero de votos totales elecciones Senado
+v2_pc_023,Numero de votos totales elecciones Alcaldía
+v2_pc_024,Numero de votos totales elecciones Concejo
+v3_gp_015,Población internos establecimientos de Reclusión de Bogotá EC (Est. Carcelario)
+v3_gp_016,Población internos establecimientos de Reclusión de Bogotá COMEB (Complejo Carcelario y Penitenciario Metropolitano )
+v3_gp_017,Población internos establecimientos de Reclusión de Bogotá RM (Buen Pastor)
+v3_gp_018,Porcentaje de servidores públicos (número de contratistas y personas naturales sobre el total de servidores públicos)
+v3_gp_019,"Numero total de contratistas por prestación de servicios, asesoría, consultoría y servicios profesionales"
+v3_gp_020,Número total de personal de planta de carrera administrativa.
+v3_gp_021,Numero total de personal de planta de libre nombramiento y remoción.
+v3_gp_022,Porcentaje de servidores públicos de libre nombramiento y remoción sobre el  total de servidores públicos
+v3_gp_023,Porcentaje de servidores públicos de carrera administrativa sobre el total de servidores públicos
+v3_gp_024,Índice de desempeño fiscal
+v3_gp_025,Ranking de desempeño fiscal
+v3_gp_026,Índice de desempeño integral
+v3_gp_004,Transferencias totales como porcentaje del ingreso total
+v3_gp_002,Ingresos propios como porcentaje de ingresos totales
+v3_gp_027,Capacidad de ahorro
+v3_gp_028,Capacidad de autofinanciamiento del funcionamiento
+v3_gp_029,Crecimiento interanual real del gasto del Distrito Capital
+v3_gp_030,Crecimiento interanual real del gasto de la Administración Central
+v3_gp_031,Ejecución presupuestal por autorización de giros de la Administración Central
+v3_gp_032,Ejecución presupuestal por autorización de giros de los Establecimientos Públicos
+v3_gp_033,Ejecución presupuestal por autorización de giros de los Fondos de Desarrollo Local
+v3_gp_034,Ejecución presupuestal por autorización de giros las Empresas Industriales y Comerciales
+v3_gp_035,Magnitud de la inversión
+v3_gp_036,Porcentaje de gasto de funcionamiento de la Administración Central sobre los gastos totales de la Administración Central
+v3_gp_037,Porcentaje de gasto de funcionamiento de los Establecimientos Públicos sobre los  gastos totales de los Establecimientos Públicos
+v3_gp_038,Porcentaje de gasto de funcionamiento de los Fondos de Desarrollo Local sobre los  gastos totales de los  Fondos de Desarrollo Local
+v3_gp_039,Porcentaje de gasto de funcionamiento de las Empresas Industriales y Comerciales sobre los gastos totales de las Empresas Industriales y Comerciales
+v3_gp_040,Composición de la Deuda (Deuda externa)
+v3_gp_041,Composición de la Deuda (Deuda interna)
+v3_gp_042,Composición de la Deuda por fuentes (Deuda Multilateral)
+v3_gp_043,Composición de la Deuda (Deuda Fomento)
+v3_gp_044,Composición de la Deuda (Deuda en bonos)
+v3_gp_045,Respaldo de la deuda o magnitud de la deuda
+v3_gp_007,Saldo de la deuda/ingresos corrientes (ley 358 - 1997
+v3_gp_046,Calificación de la Deuda - Moody's Investors Service: Moneda Legal
+v3_gp_047,Calificación de la Deuda - Moody's Investors Service: Moneda Externa
+v3_gp_048,Calificación de la Deuda - Standard&Poor's: Moneda Legal
+v3_gp_049,Calificación de la Deuda - Standard&Poor's: Moneda Externa
+v3_gp_050,Calificación de la Deuda - Fitch Ratings - International Public Finance: Moneda Legal
+v3_gp_051,Calificación de la Deuda - Fitch Ratings - International Public Finance: Moneda Externa
+v3_gp_052,Calificación de la Deuda - Fitch Ratings Colombia S.A SCV.
+v3_gp_053,Calificación de la Deuda - BRC Investor Services S.A.
+v4_ee_004,Empresas creadas
+v4_ee_005,Empresas canceladas
+v4_ee_006,Posición de Bogotá en el escalafón de América Economía Intelligence
+v4_ee_007,Doing Business
+v4_ee_008,Posición de Bogotá en el escalafón INAI
+v4_ee_009,Promedio ocupación hotelera de la ciudad
+v4_ee_010,Total de turistas nacionales llegados a Bogotá
+v4_ee_011,Total de turistas internacionales llegados a Bogotá
+v4_ee_012,Tasa de crecimiento del PIB
+v4_ee_013,PIB per cápita a precios corrientes (pesos)
+v4_ee_014,PIB per cápita a dólares a precios corrientes
+v4_ee_015,Valor de la Inversión Extranjera Directa
+v4_ee_001,Tasa de inflación
+v4_ee_016,Tasa de crecimiento de las exportaciones
+v4_ee_017,Valor de las exportaciones (Dólares FOB)
+v4_ee_018,Tasa de crecimiento de las importaciones
+v4_ee_019,Valor de las importaciones (Dólares CIF)
